@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="TestOnChrome(failed)">
+    <parameter name="BrowserName" value="chrome"/>
+    <classes>
+      <class name="CrossBrowser.CrossBrowsing">
+        <methods>
+          <include name="BrowserSetUpProcess"/>
+          <include name="CloseBrowser"/>
+          <include name="LaunchURLinMultipleBrowser"/>
+        </methods>
+      </class> <!-- CrossBrowser.CrossBrowsing -->
+    </classes>
+  </test> <!-- TestOnChrome(failed) -->
+  <test thread-count="5" parallel="tests" name="TestOnEdge(failed)">
+    <parameter name="BrowserName" value="Edge"/>
+    <classes>
+      <class name="CrossBrowser.CrossBrowsing">
+        <methods>
+          <include name="BrowserSetUpProcess"/>
+          <include name="CloseBrowser"/>
+          <include name="LaunchURLinMultipleBrowser"/>
+        </methods>
+      </class> <!-- CrossBrowser.CrossBrowsing -->
+    </classes>
+  </test> <!-- TestOnEdge(failed) -->
+</suite> <!-- Failed suite [Suite] -->
