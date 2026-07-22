@@ -1,3 +1,25 @@
-C:\Auto-Testing\GitHub Repository\JenkinsAutomationLocal\src\test\java\ParallelTest_1\Registration.java
-C:\Auto-Testing\GitHub Repository\JenkinsAutomationLocal\src\test\java\ParallelTest_2\LogIn.java
-C:\Auto-Testing\GitHub Repository\JenkinsAutomationLocal\src\test\java\ParallelTest_3\HomePage.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\AutomationFrames\HandlingAutoSuggetions.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\AutomationFrames\HandlingDragAndDrop.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\AutomationFrames\HandlingNestedFrames.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\GetTitle.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\Handling_CheckBox.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\Handling_RadioBtn.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\HandlingDropdown.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\HandlingNavigation.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\LaunchBrowser.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\MouseHover.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\Switchtab.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\BasicAutomation\SwitchWindow.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\CrossBrowser\CrossBrowsing.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\multiTabHandl\multipleTabHandling.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\ParallelTest_1\Registration.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\ParallelTest_2\LogIn.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\ParallelTest_3\HomePage.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\Screenshots_WebCalender\DatePicker.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\Screenshots_WebCalender\ScreenshotsCapture.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\Synchronization\ExplicitWait.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\Synchronization\FluentWait.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\Synchronization\ImplcitWait.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\X_path\Absolute_Xpath.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\X_path\Dynamic_Xpath.java
+C:\Auto-Testing\Intelij-Workspace\SeleniumAutomation\src\test\java\X_path\Relative_Xpath.java

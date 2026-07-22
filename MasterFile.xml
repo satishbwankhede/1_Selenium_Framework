@@ -3,9 +3,9 @@
 <suite name="Master Suite">
 
 <suite-files>
-    <suite-file path="ParaTest_1.xml" > </suite-file>
-    <suite-file path="ParaTest_2.xml" > </suite-file>
-    <suite-file path="ParaTest_3.xml" > </suite-file>
+    <suite-file path="C:\Auto-Testing\Workspace\SeleniumAutomation\ParaTest_1.xml" > </suite-file>
+    <suite-file path="C:\Auto-Testing\Workspace\SeleniumAutomation\ParaTest_2.xml" > </suite-file>
+    <suite-file path="C:\Auto-Testing\Workspace\SeleniumAutomation\ParaTest_3.xml" > </suite-file>
  </suite-files>
 
 </suite> <!-- Suite -->
