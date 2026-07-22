@@ -42,6 +42,8 @@ public class DatePicker {
 
 	            driver.findElement(By.xpath("//span[text()='Next']")).click();
 	        }
+
+		driver.close();
 	}
 
 }
