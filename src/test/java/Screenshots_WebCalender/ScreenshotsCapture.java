@@ -22,26 +22,26 @@ public class ScreenshotsCapture {
 		//Full page screenshot	
 		
 //		TakesScreenshot ss=(TakesScreenshot)driver;
-//
+//		
 //		File sc=ss.getScreenshotAs(OutputType.FILE);
-//
-//		File location=new File("C:\Auto-Testing\GitHub Repository\1_Selenium_Framework\src\test\resources\fb.png");
-//
-//		FileHandler.copy(sc, location);
+//		
+//		File location=new File("C:\\Auto-Testing\\Workspace\\FileHandlingOutput\\fb.png");
+//		
+//		FileHandler.copy(sc, location); 
 		
 		// Screenshot of specific element
-
+		
 		WebElement ss=driver.findElement(By.xpath("//*[@id=\"__next\"]/div[3]/div[1]/section[4]/img"));
-
-
+		
+		
 		File sc=ss.getScreenshotAs(OutputType.FILE);
-
-		File location=new File("C:\\Auto-Testing\\GitHub Repository\\1_Selenium_Framework\\src\\test\\resources\\Specific.png");
-
-		FileHandler.copy(sc, location);
-
-
-
+		
+		File location=new File("C:\\Auto-Testing\\Workspace\\FileHandlingOutput\\Specific.png");
+		
+		FileHandler.copy(sc, location); 
+		
+		
+		
 		System.out.println("Screenshot captured successfully");
 		
 		
